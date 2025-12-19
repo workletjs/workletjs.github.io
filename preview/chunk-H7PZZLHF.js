@@ -1,1 +1,0 @@
-import{a as t}from"./chunk-5TJPDEKD.js";import{t as n}from"./chunk-S7COXUW4.js";import{Ca as i}from"./chunk-5DNJ334N.js";var a=class e{transform(o,r){return t(o)?null:n(o,r)}static \u0275fac=function(r){return new(r||e)};static \u0275pipe=i({name:"wolToLonLat",type:e,pure:!0})};export{a};
