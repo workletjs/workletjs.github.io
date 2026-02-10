@@ -1,1 +1,0 @@
-import{y as i}from"./chunk-L76X3E7P.js";import{a as o}from"./chunk-5TJPDEKD.js";import{Da as r}from"./chunk-DTKK3HU7.js";var m=class n{transform(e,t,s,u){return o(e)?null:i(e,t,s,u)}static \u0275fac=function(t){return new(t||n)};static \u0275pipe=r({name:"wolTransformExtent",type:n,pure:!0})};export{m as a};
