@@ -1,0 +1,1 @@
+import {f as fo,W as Wn}from'./main-GMCQCPGB.js';var i=class o{static \u0275fac=function(e){return new(e||o)};static \u0275mod=fo({type:o});static \u0275inj=Wn({})};export{i};
