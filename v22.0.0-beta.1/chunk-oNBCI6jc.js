@@ -1,0 +1,1 @@
+import {h}from'./chunk-DOM07OE_.js';import'./main-RJ4FTMOQ.js';var o=class extends h{decodeBlock(r){return r}};export{o as default};
