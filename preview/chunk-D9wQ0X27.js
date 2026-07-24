@@ -1,1 +1,0 @@
-import {A as At}from'./chunk-DP2sa33_.js';import {e}from'./chunk-BHiDxdpS.js';import {ag as rc}from'./main-GMCQCPGB.js';var m=class n{transform(e$1,t,s,a){return e(e$1)?null:At(e$1,t,s,a)}static \u0275fac=function(t){return new(t||n)};static \u0275pipe=rc({name:"wolTransformExtent",type:n,pure:true})};export{m};
