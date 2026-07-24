@@ -1,0 +1,1 @@
+import {H as He}from'./chunk-B-aVLuQE.js';import {e}from'./chunk-BHiDxdpS.js';import {ah as rc}from'./main-PF6GMYGC.js';var a=class e$1{transform(o,r){return e(o)?null:He(o,r)}static \u0275fac=function(r){return new(r||e$1)};static \u0275pipe=rc({name:"wolToLonLat",type:e$1,pure:true})};export{a};
