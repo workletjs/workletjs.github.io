@@ -1,0 +1,1 @@
+import {h}from'./chunk-DjYZRR-K.js';import'./main-ND7VMJHH.js';var o=class extends h{decodeBlock(r){return r}};export{o as default};

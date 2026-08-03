@@ -1,0 +1,1 @@
+import {e}from'./chunk-BHiDxdpS.js';import {z as ze}from'./chunk-Bvm_Sk2V.js';import {z as rc}from'./main-ND7VMJHH.js';var a=class e$1{transform(o,r){return e(o)?null:ze(o,r)}static \u0275fac=function(r){return new(r||e$1)};static \u0275pipe=rc({name:"wolFromLonLat",type:e$1,pure:true})};export{a};
