@@ -1,1 +1,0 @@
-import {T as Tr}from'./chunk-Cj_vBBRF.js';import {h}from'./chunk-DjYZRR-K.js';import'./main-ND7VMJHH.js';var o=class extends h{decodeBlock(t){return Tr(new Uint8Array(t)).buffer}};export{o as default};
