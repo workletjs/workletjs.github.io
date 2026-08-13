@@ -1,0 +1,1 @@
+import {f as fo,W as Wn}from'./main-XLAP5F4O.js';var i=class o{static \u0275fac=function(r){return new(r||o)};static \u0275mod=fo({type:o});static \u0275inj=Wn({})};export{i};
