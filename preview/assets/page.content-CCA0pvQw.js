@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`77a8cd2821e585a472cb29d4`,revision:`3f52961f56467e4f7f13385c4184f7b0646c6a1c0c77876dc24840d975a2809e`,html:`<h1 class="ngde ngde" id="multipoint" href="components/geometry/multi-point" headinglink="true">MultiPoint<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="multipoint"></ng-doc-heading-anchor></h1>`};export{e as default};

@@ -1,1 +1,0 @@
-import {e as wo,Z as Zn}from'./main-V7PPC75S.js';var i=class o{static \u0275fac=function(e){return new(e||o)};static \u0275mod=wo({type:o});static \u0275inj=Zn({})};export{i};

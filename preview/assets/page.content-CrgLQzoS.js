@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`cd83105024ffd84a4f1751af`,revision:`1c20a6cdabb7033efbaa85d37e36848953c830560cbe748cd2c71f4f83441bc2`,html:`<h1 class="ngde ngde" id="point" href="components/geometry/point" headinglink="true">Point<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="point"></ng-doc-heading-anchor></h1>`};export{e as default};

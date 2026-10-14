@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`2c53f094bee9531760fa840f`,revision:`4cb98ceee79e92744f23ee706b8bd48efe3438713094733f62d2ffbd5bd526c4`,html:`<h1 class="ngde ngde" id="datatile" href="components/sources/data-tile" headinglink="true">DataTile<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="datatile"></ng-doc-heading-anchor></h1>`};export{e as default};

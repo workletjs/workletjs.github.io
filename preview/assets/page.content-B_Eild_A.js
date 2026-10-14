@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`2e8e7b3453892e8fe0d95b27`,revision:`d0ac5ff7ea887312626b61c424bc1e1d65f92d2d47e44fb341ecbb1150f9d740`,html:`<h1 class="ngde ngde" id="iiif" href="components/sources/iiif" headinglink="true">IIIF<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="iiif"></ng-doc-heading-anchor></h1>`};export{e as default};

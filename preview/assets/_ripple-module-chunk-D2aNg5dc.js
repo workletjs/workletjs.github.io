@@ -1,0 +1,1 @@
+import{Fr as e,Xt as t}from"./_router-chunk-99l_7QRp.js";import{Z as n}from"./ng-doc-app-providers-type-control-zk7t4dsU.js";import{r}from"./_structural-styles-chunk-CujsMLIu.js";var i=(()=>{class i{static ɵfac=function(e){return new(e||i)};static ɵmod=t({type:i,imports:[r],exports:[r,n]});static ɵinj=e({imports:[n]})}return i})();export{i as t};

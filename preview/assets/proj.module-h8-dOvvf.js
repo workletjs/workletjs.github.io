@@ -1,0 +1,1 @@
+import{Fr as e,Xt as t}from"./_router-chunk-99l_7QRp.js";var n=class n{static ɵfac=function(e){return new(e||n)};static ɵmod=t({type:n});static ɵinj=e({})};export{n as t};

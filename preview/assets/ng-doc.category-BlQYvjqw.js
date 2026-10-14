@@ -1,0 +1,1 @@
+import{t as e}from"./ng-doc.category-Cn_Aw-1K.js";var t={title:`Controls`,route:`controls`,category:e,expanded:!1,order:4};export{t};

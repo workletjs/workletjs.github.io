@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`e5ed7aa550612f81c217193b`,revision:`23fe0f30eed23211bd09e7f42d515bc04b7d09a3dcfd09eff2cac40a21ec9016`,html:`<h1 class="ngde ngde" id="zoom" href="components/controls/zoom" headinglink="true">Zoom<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="zoom"></ng-doc-heading-anchor></h1>`};export{e as default};

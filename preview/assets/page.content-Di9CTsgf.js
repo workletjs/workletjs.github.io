@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`7e624dac166dc2e1f5a08352`,revision:`765b40cfbe63850b718200bc26803e1f9b78df338276f3f4a7fe603550e731a8`,html:`<h1 class="ngde ngde" id="mouseposition" href="components/controls/mouse-position" headinglink="true">MousePosition<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="mouseposition"></ng-doc-heading-anchor></h1>`};export{e as default};

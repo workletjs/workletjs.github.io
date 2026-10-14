@@ -1,0 +1,1 @@
+import"./proj-DYhZFVoA.js";import{l as e}from"./TileLayer-S4PKLh-S.js";var t=class extends e{constructor(e){super({extent:e.extent,origin:e.origin,origins:e.origins,resolutions:e.resolutions,tileSize:e.tileSize,tileSizes:e.tileSizes,sizes:e.sizes}),this.matrixIds_=e.matrixIds}getMatrixId(e){return this.matrixIds_[e]}getMatrixIds(){return this.matrixIds_}};export{t};

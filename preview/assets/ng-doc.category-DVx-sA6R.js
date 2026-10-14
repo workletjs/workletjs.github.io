@@ -1,0 +1,1 @@
+var e={title:`Guide`,route:`guide`,order:1,expandable:!0};export{e as t};

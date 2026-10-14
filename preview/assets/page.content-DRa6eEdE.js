@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`e8a60ac675097a457bbde100`,revision:`0b29c0ba87d1fa210eebe5ad96dc89467f021a73d74709553ffd231fbff5273c`,html:`<h1 class="ngde ngde" id="imagetile" href="components/sources/image-tile" headinglink="true">ImageTile<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="imagetile"></ng-doc-heading-anchor></h1>`};export{e as default};
