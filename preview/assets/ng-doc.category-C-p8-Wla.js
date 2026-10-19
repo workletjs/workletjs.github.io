@@ -1,0 +1,1 @@
+var e={title:`Get Started`,route:`get-started`,order:1,expandable:!0};export{e as t};

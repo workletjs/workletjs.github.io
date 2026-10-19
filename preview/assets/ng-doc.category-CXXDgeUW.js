@@ -1,0 +1,1 @@
+var e={title:`Reference`,route:`reference`,order:3,expandable:!0};export{e as t};

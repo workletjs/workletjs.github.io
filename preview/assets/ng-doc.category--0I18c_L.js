@@ -1,1 +1,0 @@
-import{t as e}from"./ng-doc.category-Cn_Aw-1K.js";var t={title:`Geometry`,route:`geometry`,category:e,expanded:!1,order:6};export{t};

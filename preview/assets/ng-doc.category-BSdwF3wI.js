@@ -1,0 +1,1 @@
+import{t as e}from"./ng-doc.category-CDuQlJi2.js";var t={title:`General`,route:`general`,category:e,expanded:!1,order:1};export{t};

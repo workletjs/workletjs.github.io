@@ -1,0 +1,1 @@
+import{t as e}from"./ng-doc.category-CDuQlJi2.js";var t={title:`Geometry`,route:`geometry`,category:e,expanded:!1,order:6};export{t};
