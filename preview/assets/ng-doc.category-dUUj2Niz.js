@@ -1,0 +1,1 @@
+import{t as e}from"./ng-doc.category-BuMeDbww.js";var t={title:`Reference`,route:`reference`,category:e,order:3,expandable:!0,expanded:!0};export{t};
