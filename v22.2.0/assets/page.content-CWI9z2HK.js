@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`80d874f4f1f317fad7990229`,revision:`8163ee22f1580605d0310a4614443d0a1a13554ea6265b448f988dfea4dd8031`,html:`<h1 class="ngde ngde" id="pinchzoom" href="components/interactions/pinch-zoom" headinglink="true">PinchZoom<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="pinchzoom"></ng-doc-heading-anchor></h1>`};export{e as default};

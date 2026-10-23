@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`c4d1062c38446afb597857a6`,revision:`7150cc76dde36cfaa278f136bc71a4feeb35132e741f21b00aa90ff62ceaa1c7`,html:`<h1 class="ngde ngde" id="compatibility" href="guides/reference/compatibility" headinglink="true">Compatibility<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="compatibility"></ng-doc-heading-anchor></h1>`};export{e as default};

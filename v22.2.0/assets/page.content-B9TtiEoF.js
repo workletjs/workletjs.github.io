@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`5f665361b58f08937dbdc534`,revision:`0c8c85d204b7671c2fa970af556c6e208ec858f21adb1babd901a355dc0004bc`,html:`<h1 class="ngde ngde" id="stadiamaps" href="components/sources/stadia-maps" headinglink="true">StadiaMaps<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="stadiamaps"></ng-doc-heading-anchor></h1>`};export{e as default};

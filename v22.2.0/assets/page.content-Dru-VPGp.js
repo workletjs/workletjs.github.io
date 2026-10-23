@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`944304dab588fc5abb92ca82`,revision:`05969775390f9905d54af73f72632637e306688097ecd96eec5f61f19aa472ee`,html:`<h1 class="ngde ngde" id="draganddrop" href="components/interactions/drag-and-drop" headinglink="true">DragAndDrop<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="draganddrop"></ng-doc-heading-anchor></h1>`};export{e as default};

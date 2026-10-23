@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`a1e103fb9fac77639f16f7b3`,revision:`fac9e1a3bb204a88f8cf81fab1525926c86a2024a207d1779c3e1ee5013e4b57`,html:`<h1 class="ngde ngde" id="tilelayer" href="components/layers/tile" headinglink="true">TileLayer<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="tilelayer"></ng-doc-heading-anchor></h1>`};export{e as default};

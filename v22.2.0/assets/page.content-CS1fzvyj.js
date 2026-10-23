@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`5876c873cd2535b0a14d6608`,revision:`25e234e50063aa8d2c4aa388affb5fea3aa861da957bfd757565dc8ff581d51d`,html:`<h1 class="ngde ngde" id="upgrading" href="guides/reference/upgrading" headinglink="true">Upgrading<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="upgrading"></ng-doc-heading-anchor></h1>`};export{e as default};

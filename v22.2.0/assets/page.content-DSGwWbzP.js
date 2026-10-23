@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`0838c944fa3956090038bfd6`,revision:`b2937a5f0d0952c2759315f5567838d614b6ab6ecdc27f2ec1ca3b4104206fa6`,html:`<h1 class="ngde ngde" id="snap" href="components/interactions/snap" headinglink="true">Snap<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="snap"></ng-doc-heading-anchor></h1>`};export{e as default};

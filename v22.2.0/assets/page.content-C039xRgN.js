@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`4ecef96b52a1280f00e01ca6`,revision:`5734e40d1edb032a832a7f9e286e3373a7d18bd98f6cfe825e21b91747d92a68`,html:`<h1 class="ngde ngde" id="zoomify" href="components/sources/zoomify" headinglink="true">Zoomify<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="zoomify"></ng-doc-heading-anchor></h1>`};export{e as default};

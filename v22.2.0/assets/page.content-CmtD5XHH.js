@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`b967cf8edfc3b802eff76da4`,revision:`917cb6294773f6dfbb0420db9d8d54c4cdc4affda94376597cae7ddbb69535d4`,html:`<h1 class="ngde ngde" id="heatmaplayer" href="components/layers/heatmap-layer" headinglink="true">HeatmapLayer<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="heatmaplayer"></ng-doc-heading-anchor></h1>`};export{e as default};

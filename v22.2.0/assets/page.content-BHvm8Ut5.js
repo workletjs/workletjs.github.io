@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`692d238a7a4d746c20dd4642`,revision:`0c0b86945ab850bda37bd29c50c87b8f83e0b6aaa045722e23e67013dedc44e8`,html:`<h1 class="ngde ngde" id="keyboardpan" href="components/interactions/keyboard-pan" headinglink="true">KeyboardPan<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="keyboardpan"></ng-doc-heading-anchor></h1>`};export{e as default};

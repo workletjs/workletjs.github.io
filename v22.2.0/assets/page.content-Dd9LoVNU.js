@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`bac1c8a079423bd3c97f8bf3`,revision:`3e58055ded00ee4f7162a3897b23590f08062ba9e82fef57c51e5fb390a21b5b`,html:`<h1 class="ngde ngde" id="attribution" href="components/controls/attribution" headinglink="true">Attribution<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="attribution"></ng-doc-heading-anchor></h1>`};export{e as default};

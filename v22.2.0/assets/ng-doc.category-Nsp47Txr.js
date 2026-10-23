@@ -1,0 +1,1 @@
+import{t as e}from"./ng-doc.category-CDuQlJi2.js";var t={title:`Layers`,route:`layers`,category:e,expanded:!1,order:2};export{t};

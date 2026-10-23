@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`5935aea8dd644f71e39ddc08`,revision:`77fdb16b24eca5ade06eb3d7400d1b91e6513c697854348b01ee8a1983913d75`,html:`<h1 class="ngde ngde" id="extent" href="components/interactions/extent" headinglink="true">Extent<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="extent"></ng-doc-heading-anchor></h1>`};export{e as default};

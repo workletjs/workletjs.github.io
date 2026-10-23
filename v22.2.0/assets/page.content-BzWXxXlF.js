@@ -1,0 +1,1 @@
+var e={schemaVersion:1,id:`7f7defed080fbd6d520653d9`,revision:`f2c172d8e84a8968b21631030e756866111f22644d09eb871e68159b1472bef5`,html:`<h1 class="ngde ngde" id="polygon" href="components/geometry/polygon" headinglink="true">Polygon<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="polygon"></ng-doc-heading-anchor></h1>`};export{e as default};
