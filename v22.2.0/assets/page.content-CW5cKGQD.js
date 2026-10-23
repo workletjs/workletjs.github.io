@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`17ad4cd64c63adc42ac3eaed`,revision:`639c10b3ead628a55e0c1914499c2f3481c40dec9e46846a9efe50e5f62ee7a1`,html:`<h1 class="ngde ngde" id="imagewms" href="components/sources/image-wms" headinglink="true">ImageWMS<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="imagewms"></ng-doc-heading-anchor></h1>`};export{e as default};

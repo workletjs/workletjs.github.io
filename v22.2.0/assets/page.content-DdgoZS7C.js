@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`8173a1fd147961a2fabf2057`,revision:`0c9993c850c463fc7deecef2656dd6bece6a62f5a2bd0d1a53c2d5e0969eab30`,html:`<h1 class="ngde ngde" id="ogcvectortile" href="components/sources/ogc-vector-tile" headinglink="true">OGCVectorTile<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="ogcvectortile"></ng-doc-heading-anchor></h1>`};export{e as default};

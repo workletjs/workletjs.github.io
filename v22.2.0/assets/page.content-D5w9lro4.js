@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`728b44b6bea3b35a4cf38ca5`,revision:`0861a92cb704e1a926d68fd32f0d98101f40fddb2770644fac2aa8163f93096a`,html:`<h1 class="ngde ngde" id="pinchrotate" href="components/interactions/pinch-rotate" headinglink="true">PinchRotate<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="pinchrotate"></ng-doc-heading-anchor></h1>`};export{e as default};

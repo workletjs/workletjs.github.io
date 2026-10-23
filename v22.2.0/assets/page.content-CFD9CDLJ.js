@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`1adbcb92b22acbf6e9552071`,revision:`4d11ba170472713b4abf09b85f097c5935730c90fce8a2d396483f0e3838e410`,html:`<h1 class="ngde ngde" id="scaleline" href="components/controls/scale-line" headinglink="true">ScaleLine<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="scaleline"></ng-doc-heading-anchor></h1>`};export{e as default};

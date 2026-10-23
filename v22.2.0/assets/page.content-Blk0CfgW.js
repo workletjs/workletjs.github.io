@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`16f0936e330c87137a6930d0`,revision:`10303990c6d1e72d6ca7bc98faa6bc1763ef27a5f3dd01409435df93f0637efb`,html:`<h1 class="ngde ngde" id="dragrotate" href="components/interactions/drag-rotate" headinglink="true">DragRotate<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="dragrotate"></ng-doc-heading-anchor></h1>`};export{e as default};

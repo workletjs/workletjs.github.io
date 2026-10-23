@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`de4fcc8db42d6346585ff380`,revision:`8444f38401b0d1b3e3d947ee8e027fb765a07fad1b76595fa17cfa9da28f8760`,html:`<h1 class="ngde ngde" id="angular-cli" href="guides/reference/angular-cli" headinglink="true">Angular CLI<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="angular-cli"></ng-doc-heading-anchor></h1>`};export{e as default};

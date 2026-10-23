@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`6de03446bb1ae6f37ae1f5e3`,revision:`0e6577d8ab1a9911df8183743e33e9f99800d4d2d0f6ba1b8779a56291eff3ec`,html:`<h1 class="ngde ngde" id="vector" href="components/sources/vector" headinglink="true">Vector<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="vector"></ng-doc-heading-anchor></h1>`};export{e as default};

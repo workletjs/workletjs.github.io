@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`12a1dce8a583ebd08d2f4f7c`,revision:`f5cb8f2334ab15b4f6b2692d937cb6a7582371cfa7d9d3b0a3e62e7e5344c7c1`,html:`<h1 class="ngde ngde" id="coordinate" href="components/general/coordinate" headinglink="true">Coordinate<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="coordinate"></ng-doc-heading-anchor></h1>`};export{e as default};

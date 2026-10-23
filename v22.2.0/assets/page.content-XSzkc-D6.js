@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`7eff6f682d395a8df9e8aea4`,revision:`76578cc17451bec7f4cba7d010c1b3abc6eb0039e4cfc04b68dbdda1baaccf59`,html:`<h1 class="ngde ngde" id="imagemapguide" href="components/sources/image-map-guide" headinglink="true">ImageMapGuide<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="imagemapguide"></ng-doc-heading-anchor></h1>`};export{e as default};

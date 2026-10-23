@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`c8f6f4475f550271a4dadafc`,revision:`7b9be8b5e70baac6ab6a7bedb51b18b3397ff9942b55f2dc9fc13e2f00beb75a`,html:`<h1 class="ngde ngde" id="webglvectorlayer" href="components/layers/webgl-vector" headinglink="true">WebGLVectorLayer<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="webglvectorlayer"></ng-doc-heading-anchor></h1>`};export{e as default};

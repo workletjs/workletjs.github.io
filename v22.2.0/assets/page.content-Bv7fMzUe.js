@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`ac84ab5f1d49dfbde0b0a409`,revision:`bd8328aba7f8d366906a4abf2865ccdca0affe3814ea924f55ed144bd8d1a2db`,html:`<h1 class="ngde ngde" id="keyboardzoom" href="components/interactions/keyboard-zoom" headinglink="true">KeyboardZoom<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="keyboardzoom"></ng-doc-heading-anchor></h1>`};export{e as default};

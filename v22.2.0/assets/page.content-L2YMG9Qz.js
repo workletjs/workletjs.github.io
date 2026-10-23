@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`bec241c68dc387206e4dbfb1`,revision:`38e935408a137454f8accf86fcbd924985fc9f418a58410f8c195b492f14356f`,html:`<h1 class="ngde ngde" id="circle" href="components/geometry/circle" headinglink="true">Circle<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="circle"></ng-doc-heading-anchor></h1>`};export{e as default};

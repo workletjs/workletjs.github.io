@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`6bfc15d0734c145723d5a206`,revision:`6c0195bc437b59e8bae2768b7e08bef5dc63a31ade9dd48b2940ff7e95d5e57c`,html:`<h1 class="ngde ngde" id="vectortile" href="components/sources/vector-tile" headinglink="true">VectorTile<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="vectortile"></ng-doc-heading-anchor></h1>`};export{e as default};

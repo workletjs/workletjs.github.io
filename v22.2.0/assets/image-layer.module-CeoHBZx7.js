@@ -1,1 +1,0 @@
-import{Lr as e,Qt as t}from"./_router-chunk-CDOpk8UU.js";var n=class n{static ɵfac=function(e){return new(e||n)};static ɵmod=t({type:n});static ɵinj=e({})};export{n as t};

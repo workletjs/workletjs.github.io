@@ -1,1 +1,0 @@
-import{t as e}from"./ng-doc.category-CDuQlJi2.js";var t={title:`Interactions`,route:`interactions`,category:e,expanded:!1,order:5};export{t};

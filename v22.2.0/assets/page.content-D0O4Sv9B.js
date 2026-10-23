@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`055433bea4b5261ef6d4ab38`,revision:`772417bac705011cb023fad7b9f0e7922cfa353487e958aa4c0cc50b05fbb68b`,html:`<h1 class="ngde ngde" id="multipolygon" href="components/geometry/multi-polygon" headinglink="true">MultiPolygon<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="multipolygon"></ng-doc-heading-anchor></h1>`};export{e as default};

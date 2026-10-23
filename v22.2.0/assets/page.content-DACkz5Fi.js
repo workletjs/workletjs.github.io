@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`3e7467ec8d5d07e1e0059ae1`,revision:`1d6f1c64ceaf721b9d1707c12b104b50cce9decf6fbfbcc2b1633a13925d3c54`,html:`<h1 class="ngde ngde" id="overviewmap" href="components/controls/overview-map" headinglink="true">OverviewMap<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="overviewmap"></ng-doc-heading-anchor></h1>`};export{e as default};

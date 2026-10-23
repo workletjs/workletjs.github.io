@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`8933d4c866b4b8f9d661cb7f`,revision:`c26edcfbbed15a00c38ecc87f72412cf28441bfc9e70ff61b66e140c2378e61a`,html:`<h1 class="ngde ngde" id="fullscreen" href="components/controls/fullscreen" headinglink="true">Fullscreen<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="fullscreen"></ng-doc-heading-anchor></h1>`};export{e as default};

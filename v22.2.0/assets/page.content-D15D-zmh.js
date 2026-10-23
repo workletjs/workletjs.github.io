@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`0a59fc1d350b518d70743812`,revision:`1cc71596070de3bb7e9b61333b2925e0072c5af6afa84b05c3d325a9d6a94937`,html:`<h1 class="ngde ngde" id="installation" href="guides/get-started/installation" headinglink="true">Installation<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="installation"></ng-doc-heading-anchor></h1>`};export{e as default};

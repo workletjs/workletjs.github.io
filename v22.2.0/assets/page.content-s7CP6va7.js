@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`ed224a9b1fe007120e9da2eb`,revision:`d8ce6c24ee99293c5ce723d2044672f3459572b0b87ed087055c6eca112a566b`,html:`<h1 class="ngde ngde" id="tilejson" href="components/sources/tile-json" headinglink="true">TileJSON<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="tilejson"></ng-doc-heading-anchor></h1>`};export{e as default};

@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`6f248d72837b195b7a703e5c`,revision:`a3a2e7f97cff397f11bf9d14519b971b6736d55fbea55751f1eeb9aa2de3ae5c`,html:`<h1 class="ngde ngde" id="ogcmaptile" href="components/sources/ogc-map-tile" headinglink="true">OGCMapTile<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="ogcmaptile"></ng-doc-heading-anchor></h1>`};export{e as default};

@@ -1,1 +1,0 @@
-var e={title:`Guides`,route:`guides`,order:1,expandable:!0};export{e as t};

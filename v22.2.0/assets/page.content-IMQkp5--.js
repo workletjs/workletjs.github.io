@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`f800b3cfa852b762ae72fb91`,revision:`0eba55f2ada1446d114e2e8497d4082ab0e7a09ee2d617d0cdca15ec389db49f`,html:`<h1 class="ngde ngde" id="linestring" href="components/geometry/line-string" headinglink="true">LineString<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="linestring"></ng-doc-heading-anchor></h1>`};export{e as default};

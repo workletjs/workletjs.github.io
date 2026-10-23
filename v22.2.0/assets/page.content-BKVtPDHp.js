@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`f946855776511aa921992541`,revision:`517fd0d63339d0a22cc355e0b64274a02c3bfe9100ae2c7bc2365fe639cc0885`,html:`<h1 class="ngde ngde" id="wmts" href="components/sources/wmts" headinglink="true">WMTS<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="wmts"></ng-doc-heading-anchor></h1>`};export{e as default};

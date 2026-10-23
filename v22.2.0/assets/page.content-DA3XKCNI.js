@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`2842c283c907ce9d1730995d`,revision:`367b7fbfbe80510eeee2bc97c9af087dbfdf642f475f1948c91b871f71997745`,html:`<h1 class="ngde ngde" id="utfgrid" href="components/sources/utf-grid" headinglink="true">UTFGrid<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="utfgrid"></ng-doc-heading-anchor></h1>`};export{e as default};

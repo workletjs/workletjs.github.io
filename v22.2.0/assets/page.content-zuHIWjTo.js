@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`e4d422ef17356d850086be6a`,revision:`e4a0b5123523a2952dcaf31601c21ed9dcbcf8f548a15d7ba9b04da43f85c15a`,html:`<h1 class="ngde ngde" id="geotiff" href="components/sources/geotiff" headinglink="true">GeoTIFF<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="geotiff"></ng-doc-heading-anchor></h1>`};export{e as default};

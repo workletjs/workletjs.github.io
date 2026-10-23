@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`26e6c0f01a83f7fbb8b21bc3`,revision:`47cef97bd04a7205b5c7e33f01d7fa47734d365a0c38d3ea56edc020fd8ff4d8`,html:`<h1 class="ngde ngde" id="imagelayer" href="components/layers/image" headinglink="true">ImageLayer<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="imagelayer"></ng-doc-heading-anchor></h1>`};export{e as default};

@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`207bb2946f7f94db5163e637`,revision:`358de38fd25fea039b859d79c6459af2d90e6d02cc7e5a4fe040ce17e320910f`,html:`<h1 class="ngde ngde" id="geozarr" href="components/sources/geozarr" headinglink="true">GeoZarr<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="geozarr"></ng-doc-heading-anchor></h1>`};export{e as default};

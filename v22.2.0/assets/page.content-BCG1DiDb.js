@@ -1,1 +1,0 @@
-var e={schemaVersion:1,id:`81b81257ff0620d99e4dd6b5`,revision:`c186523b239e64d9a249fd5ec140933a375b6aa66215adff359eb02d36bfa14b`,html:`<h1 class="ngde ngde" id="dragpan" href="components/interactions/drag-pan" headinglink="true">DragPan<ng-doc-heading-anchor class="ng-doc-anchor ngde" anchor="dragpan"></ng-doc-heading-anchor></h1>`};export{e as default};
